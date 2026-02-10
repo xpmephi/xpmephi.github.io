@@ -1,7 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://xpmephi.github.io/'
+languageCode = 'ru'
+title = 'XP MEPhI Wiki'
 theme = 'book'
+
+# Меню строится из дерева разделов в content/docs
+[params]
+  BookSection = 'docs'
 
 [markup.goldmark.renderer]
   unsafe = true
