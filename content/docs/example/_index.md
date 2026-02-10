@@ -20,6 +20,8 @@ solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
 - Velit posses summoque
 - De fumos illa foret
 
+$$ f(x) = x^2 $$
+
 ## Est simul fameque tauri qua ad
 
 Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
