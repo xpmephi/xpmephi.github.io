@@ -8,6 +8,6 @@ layout: landing
 # ЭП ВИКИ {anchor=false}
 Материалы для изучения дисциплин образовательной программы «Экстремальное программирование» НИЯУ МИФИ.
 
-{{<button href="/docs/example">}}Explore{{</button>}}
+{{<button href="/docs/algo/">}}Explore{{</button>}}
 
 </div>
